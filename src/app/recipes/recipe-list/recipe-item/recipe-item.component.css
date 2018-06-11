@@ -1,0 +1,7 @@
+a{
+  cursor: pointer;
+}
+.good{
+ border: 1px solid grey;
+ box-shadow: 0 2px 3px black;
+}
